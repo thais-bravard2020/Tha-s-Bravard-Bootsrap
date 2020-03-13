@@ -1,0 +1,31 @@
+.mb-6 { 
+	margin-bottom: 3rem!important;
+}
+.mb-7 {
+	margin-bottom: 5rem!important;
+}
+
+.navbar-brand {
+	font-family: 'Abril Fatface', cursive;
+}
+
+.carousel-item {
+	height: 500px; 
+}
+
+.button1 {
+	font-family: 'Abril Fatface', cursive;
+
+}
+
+body > div.container > footer > div > div.col-12.col-md > a > i {
+	color: black;
+}
+
+.form-row {
+	margin-right: 5rem!important;  
+}
+
+body {
+	margin: 4
+}
